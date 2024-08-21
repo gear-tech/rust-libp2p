@@ -1,6 +1,7 @@
 ## 0.4.1
 
 - Add `tokio` support.
+- Add `#[track_caller]` to `SwarmExt` methods
 
 ## 0.4.0
 
